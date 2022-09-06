@@ -1,7 +1,7 @@
 /* 
 
 Codigo abierto - Dejar creditos
-Created by https://github.com/BrunoSobrino 
+Created by https://github.com/UMxR-69 
 
 👇🏻 EMPEIZA A MODIFICAR DESDE AQUÍ 👇🏻 */
 
@@ -67,7 +67,7 @@ let imagen1 = fs.readFileSync('./Menu2.jpg')
 let imagen2 = fs.readFileSync('./src/nuevobot.jpg') 
 let imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
 let texto1 = `╭═─═─═─═─═─═╮
-║   𝚃𝙷𝙴 𝙼𝚈𝚂𝚃𝙸𝙲 - 𝙱𝙾𝚃 - 𝙼𝙳
+║   JIMMY - BOT 
 ║╰═─═─═─═─══╯
 ┠╮
 ║- 𝙷𝙾𝙻𝙰 @${m.sender.split("@")[0]}
